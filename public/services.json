@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "ENGINE DIAGNOSTIC",
+    "price": 300,
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quo eaque sint perferendis assumenda a at molestias adipisci culpa ad omnis, reprehenderit, quidem vitae eum ipsum voluptatibus odio aspernatur neque.",
+    "img": "https://i.ibb.co/rvKc3kq/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "WHEEL ALIGNMENT",
+    "price": 100,
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quo eaque sint perferendis assumenda a at molestias adipisci culpa ad omnis, reprehenderit, quidem vitae eum ipsum voluptatibus odio aspernatur neque.",
+    "img": "https://i.ibb.co/bLjXJtK/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "OIL CHANGING",
+    "price": 150,
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quo eaque sint perferendis assumenda a at molestias adipisci culpa ad omnis, reprehenderit, quidem vitae eum ipsum voluptatibus odio aspernatur neque.",
+    "img": "https://i.ibb.co/WHdVrf0/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BREAK REPAIRING",
+    "price": 180,
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quo eaque sint perferendis assumenda a at molestias adipisci culpa ad omnis, reprehenderit, quidem vitae eum ipsum voluptatibus odio aspernatur neque.",
+    "img": "https://i.ibb.co/whxg4f4/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "WASH AND GLASSING",
+    "price": 100,
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quo eaque sint perferendis assumenda a at molestias adipisci culpa ad omnis, reprehenderit, quidem vitae eum ipsum voluptatibus odio aspernatur neque.",
+    "img": "https://i.ibb.co/4JSC7MY/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "COMPLITE ANALYSIS",
+    "price": 300,
+    "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quo eaque sint perferendis assumenda a at molestias adipisci culpa ad omnis, reprehenderit, quidem vitae eum ipsum voluptatibus odio aspernatur neque.",
+    "img": "https://i.ibb.co/8MTjWqk/6.jpg"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Jemyson",
+    "expetise": "All-rounder",
+    "img": "https://i.ibb.co/RSChgWV/mechanic-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cris-Gayil",
+    "expetise": "Washing-Expert",
+    "img": "https://i.ibb.co/Jsqg4K5/mechanic-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Anderson",
+    "expetise": "Service-Engineer",
+    "img": "https://i.ibb.co/3B95J1h/mechanic-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Michel-Jordan",
+    "expetise": "Automotion-Engineer",
+    "img": "https://i.ibb.co/ZzYpzg5/mechanic-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Rossow",
+    "expetise": "Engine-Expert",
+    "img": "https://i.ibb.co/09zxcP2/mechanic-5.jpg"
+  }
+]
